@@ -45,3 +45,6 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+=======
+# MiwokAppV1
+The Miwok App Version 1. This is the app that introduce from udacity free course. But I don't follow all the syntax. There's some syntax I made by myself.
